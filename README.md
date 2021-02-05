@@ -2,4 +2,4 @@
 
 # works
 - [Load Loader](https://github.com/klab16/IbarakiFront)
-- [賞味期限カウントダウン（ショーミ）](https://apps.apple.com/jp/app/id1510117209?mt=8)
+- [賞味期限カウントダウン（ショーミ）](https://apps.apple.com/jp/app/id1510117209#?platform=iphone)
