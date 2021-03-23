@@ -2,5 +2,5 @@
 
 # works
 - [賞味期限カウントダウン（ショーミ）](https://apps.apple.com/jp/app/id1510117209#?platform=iphone)
-- [Load Loader](https://github.com/klab16/IbarakiFront)
+- [Road Loader](https://github.com/klab16/IbarakiFront)
 - [Mikan Navi](https://github.com/wataru0/MikanNavi)
